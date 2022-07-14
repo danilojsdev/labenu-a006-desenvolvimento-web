@@ -1,1 +1,3 @@
-alert("Obrigado por acessar o site!")
+function myfunction() {
+    alert("Obrigado por acessar o site!")
+}
